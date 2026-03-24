@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  font: Arial;
+  background-color: purple;
+  color: pink;
+}
+
+#button1 {
+  width: 100px;
+  length: 50px;
+  padding: 10px;
+  background-color: pink;
+}
